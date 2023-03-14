@@ -1,5 +1,5 @@
-# Stock-Market-Analysis
-BIST-30 Clustering &amp; Correlation Test
+# Stock Market Analysis
+![bist](https://user-images.githubusercontent.com/111612847/224891705-dca16e7b-9c79-4625-bf54-ffc50c1ef77b.jpg)
 
 ## Buisness problem
 Financial analysts working on the analysis and research department of a domestic investment firm will use the data of the stocks in BİST-30 to segment them and give advice on how their customers should build a portfolio according to the results of these analyzes
@@ -12,12 +12,12 @@ The reason we obtained it with the data scraping method is that the study remain
 
 ## Variables
 
--Stocks Name
+* Stocks Name
+ 
+* Date
 
--Date
+* Price
 
--Price
+* Income
 
--Income
-
--Volatility
+* Volatility
